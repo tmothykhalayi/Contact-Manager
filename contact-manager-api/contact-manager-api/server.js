@@ -9,8 +9,8 @@ app.use(bodyParser.json());
 
 // Store contacts in-memory (for simplicity)
 let contacts = [
-  { id: 1, name: 'John Doe', email: 'john.doe@example.com', phone: '123-456-7890' },
-  { id: 2, name: 'Jane Doe', email: 'jane.doe@example.com', phone: '987-654-3210' }
+  { id: 1, name: 'Timothy Manya', email: 'TimothyManya@gmail.com', phone: '0795978606' },
+  { id: 2, name: 'Eliud Matthewa', email: 'EliudMatthewa@gmail.com', phone: '079597806' }
 ];
 
 // Route to get all contacts
